@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**krissemicolon/krissemicolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack 🛠️
+![C](https://img.shields.io/badge/--000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/--000?style=flat&logo=c%2B%2B)
+![Rust](https://img.shields.io/badge/--000?style=flat&logo=rust)
+![Haskell](https://img.shields.io/badge/--000?style=flat&logo=haskell)
+![OCaml](https://img.shields.io/badge/--000?style=flat&logo=OCaml)
+![Crystal](https://img.shields.io/badge/--000?style=flat&logo=crystal)
+![Java](https://img.shields.io/badge/--000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/--000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/--000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/--000?style=flat&logo=python)
+![Angular](https://img.shields.io/badge/--000?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/--000?style=flat&logo=ionic)
+![Dart](https://img.shields.io/badge/--000?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/--000?style=flat&logo=flutter)
+![MySQL](https://img.shields.io/badge/--000?style=flat&logo=mysql)
+![Markdown](https://img.shields.io/badge/--000?style=flat&logo=markdown)
