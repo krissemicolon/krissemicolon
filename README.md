@@ -1,4 +1,5 @@
 # Tech Stack 🛠️
+## Languages
 ![C](https://img.shields.io/badge/--000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/--000?style=flat&logo=c%2B%2B)
 ![Rust](https://img.shields.io/badge/--000?style=flat&logo=rust)
@@ -9,9 +10,16 @@
 ![JavaScript](https://img.shields.io/badge/--000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/--000?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/--000?style=flat&logo=python)
+![Shell](https://img.shields.io/badge/--000?style=flat&logo=GNU%20bash)
 ![Angular](https://img.shields.io/badge/--000?style=flat&logo=angular)
 ![Ionic](https://img.shields.io/badge/--000?style=flat&logo=ionic)
 ![Dart](https://img.shields.io/badge/--000?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/--000?style=flat&logo=flutter)
 ![MySQL](https://img.shields.io/badge/--000?style=flat&logo=mysql)
-![Markdown](https://img.shields.io/badge/--000?style=flat&logo=markdown)
+## Tools
+![Vim](https://img.shields.io/badge/--000?style=flat&logo=vim)
+![Tmux](https://img.shields.io/badge/--000?style=flat&logo=tmux)
+![VSCode](https://img.shields.io/badge/--000?style=flat&logo=visual%20studio%20code)
+![Git](https://img.shields.io/badge/--000?style=flat&logo=git)
+![Gentoo](https://img.shields.io/badge/--000?style=flat&logo=gentoo)
+![bspwm](https://img.shields.io/badge/-bspwm-000?style=flat)
