@@ -1,5 +1,5 @@
 # 🛠️ Tech Stack
-## Languages
+## Languages & Frameworks
 ![C](https://img.shields.io/badge/--000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/--000?style=flat&logo=c%2B%2B)
 ![Rust](https://img.shields.io/badge/--000?style=flat&logo=rust)
