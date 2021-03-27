@@ -5,6 +5,7 @@
 ![Rust](https://img.shields.io/badge/--000?style=flat&logo=rust)
 ![Haskell](https://img.shields.io/badge/--000?style=flat&logo=haskell)
 ![OCaml](https://img.shields.io/badge/--000?style=flat&logo=OCaml)
+![Ruby](https://img.shields.io/badge/--000?style=flat&logo=ruby)
 ![Crystal](https://img.shields.io/badge/--000?style=flat&logo=crystal)
 ![Java](https://img.shields.io/badge/--000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/--000?style=flat&logo=javascript)
@@ -16,6 +17,7 @@
 ![Dart](https://img.shields.io/badge/--000?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/--000?style=flat&logo=flutter)
 ![MySQL](https://img.shields.io/badge/--000?style=flat&logo=mysql)
+![php](https://img.shields.io/badge/--000?style=flat&logo=php)
 ## Tools
 ![Vim](https://img.shields.io/badge/--000?style=flat&logo=vim)
 ![Tmux](https://img.shields.io/badge/--000?style=flat&logo=tmux)
