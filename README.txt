@@ -2,6 +2,8 @@ I recently moved to a selfhosted
 instance of gitea (devhub.ml/krissemicolon).
 All projects on my github are outdated.
 
+New Location: git.krishuber.xyz
+
 New Organisation Locations:
 github.com/space-lang     ->  devhub.ml/space-lang
 github.com/sigma-lang     ->  devhub.ml/sigma-lang
