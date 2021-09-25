@@ -1,5 +1,5 @@
 I recently moved to a selfhosted
-instance of gitea (devhub.ml/krissemicolon).
+instance of gitea (git.devhub.art/krissemicolon).
 All projects on my github are outdated.
 
 New Location: git.devhub.art
